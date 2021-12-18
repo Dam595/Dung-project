@@ -1,5 +1,5 @@
 body{
-	font-family:Helvetica, Arial, sans-serif ;
+	font-family: 'Twinkle Star', cursive;
 	margin:0 ;
 }
 header{
@@ -8,9 +8,15 @@ header{
 }
 header h1{
 	color: hotpink;
-	
+    font-size: 45px;
 }
 header img{
 	border-radius: 140px;
 	border: 10px solid salmon;
+}
+main p{
+	font-size: 35px;
+}
+main{
+	max-width: 800px;
 }
